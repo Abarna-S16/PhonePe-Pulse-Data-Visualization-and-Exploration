@@ -1,0 +1,22 @@
+.stApp > header {
+    background-color: #391c59;
+    color: white;
+}
+
+.stApp {
+    margin: auto;
+    font-family: PhonePeSans,sans-serif,Helvetica,Arial;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 2rem;
+    overflow: auto;
+    background: #210d38;
+    color: white;
+    background-size: 400% 400%;
+    background-attachment: fixed;
+}
+
+.st-emotion-cache-zt5igj {
+    color: white
+}
