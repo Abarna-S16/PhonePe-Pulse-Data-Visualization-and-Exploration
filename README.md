@@ -38,7 +38,7 @@ This Streamlit app is user friendly and provides a geographical representation o
 
 ![Home](https://i.ibb.co/TYFJ14k/Explore.png)
 
-![Home](https://i.ibb.co/h8hdVwp/Insight.png)
+![Home](https://i.ibb.co/PzpcS8V/Insight.png)
 
 ## Demo Video
 
