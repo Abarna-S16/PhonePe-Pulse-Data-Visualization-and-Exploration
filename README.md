@@ -19,7 +19,6 @@ run the following command
 ```
 
 
-## Steps
 - Extract the necessary data from the Aggregrated, Map and Top folders. Perform Data cleaning and preprocessing if required.
 - Convert them to CSV /JSON files
 - Convert to DataFrame and migrate the data to any SQL Database.
