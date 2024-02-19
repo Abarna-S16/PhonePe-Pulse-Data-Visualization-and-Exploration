@@ -28,9 +28,6 @@ run the following command
 This Streamlit app is user friendly and provides a geographical representation of both transactional and user data of PhonePe across the years 2018 to 2023.
 - Select the type of data (Transaction/User), Year and Quarter to display the data in the map representation across India.
 - Select Insights to find top insights of the data in its chart visualizations.
-## Developer Guide
-- The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics. The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner.
-- Extract data from the Phonepe pulse Github repository through scripting and clone it
 
 ## Snaps of the Application
 
